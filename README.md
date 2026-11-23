@@ -11,7 +11,7 @@ A tiny command line script that prints the current date and the free disk space 
 ## Installation
 
 ```bash
-git clone https://github.com/<DEIN-ZWEITKONTO>/toolindex-maintainer-test.git
+git clone https://github.com/marcobitsch/toolindex-maintainer-test
 cd toolindex-maintainer-test
 chmod +x status.sh
 ```
